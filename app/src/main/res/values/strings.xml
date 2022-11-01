@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">UTS_NabilaSavitri</string>
+    <string-array name="arr_jalur">
+        <item>Jalur Pendaftaran</item>
+        <item>Jalur Tanpa Tes</item>
+        <item>Tes tertulis</item>
+        <item>Tes Wawancara</item>
+        <item>Rekomendasi</item>
+    </string-array>
+</resources>
